@@ -47,13 +47,13 @@
 **Databases**
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgresql](https://img.shields.io/badge/-Postgresql-%232c3e50?style=flat-square&logo=Postgresql)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-FCA121?style=flat-square&logo=Redis)
 
 **Front-end**
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 <!-- ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) -->
 <!-- ![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=vue-dot-js) -->
 <!-- ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=whiter) -->
@@ -65,9 +65,8 @@
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-<!-- ![С#](https://img.shields.io/badge/-%D0%A1Sharp-1d72b1?style=flat-square&logo=csharp) -->
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
+<!-- ![С#](https://img.shields.io/badge/-%D0%A1Sharp-1d72b1?style=flat-square&logo=csharp) -->
 
 **Tools**
 
@@ -85,10 +84,10 @@
 ![Go](https://img.shields.io/badge/-Go-grey?style=flat-square&logo=go)
 <!-- ![С#](https://img.shields.io/badge/-%D0%A1Sharp-1d72b1?style=flat-square&logo=csharp) -->
 
-## 𝗦𝘁𝗮𝘁𝘀
+<!-- ## 𝗦𝘁𝗮𝘁𝘀 -->
 
-![DJWOMS github stats](https://github-readme-stats.vercel.app/api?username=DJWOMS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
-![DJWOMS Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DJWOMS&layout=compact&count_private=true&theme=gruvbox)
+<!-- ![DJWOMS github stats](https://github-readme-stats.vercel.app/api?username=DJWOMS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true) -->
+<!-- ![DJWOMS Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DJWOMS&layout=compact&count_private=true&theme=gruvbox) -->
 
 <!--
 **DJWOMS/DJWOMS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
