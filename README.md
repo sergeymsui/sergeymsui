@@ -81,8 +81,8 @@
 
 **Learning**
 
-![Go](https://img.shields.io/badge/-Go-grey?style=flat-square&logo=go)
-<!-- ![С#](https://img.shields.io/badge/-%D0%A1Sharp-1d72b1?style=flat-square&logo=csharp) -->
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 <!-- ## 𝗦𝘁𝗮𝘁𝘀 -->
 
